@@ -10,7 +10,7 @@ import static jdk.nashorn.tools.ShellFunctions.input;
 //
 
 /**agregado por cristobal javier
- *
+ *otro agregado
  * @author AxiosGaming
  */
 public class CalTech extends javax.swing.JFrame {
